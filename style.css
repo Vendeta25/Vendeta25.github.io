@@ -4,7 +4,7 @@
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     border-radius: 5px;
     font-family: 'Cuprum', sans-serif;
-    font-size: 25px;
+    font-size: 18px;
     
 }
 .headshot{
@@ -20,6 +20,19 @@ body{
 }
 
 .carousel-inner{
-    max-width: 100%;
+    height:  100%;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+}
+.workImage{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.part-header{
+    background-color: rgba(47, 111, 231, 0.801);
+    
+   
 }
