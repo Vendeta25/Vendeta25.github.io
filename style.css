@@ -8,13 +8,13 @@
     background-color: white;
 }
 .headshot{
-    width:100px;
-    height: 120px;
+    width:320px;
+    height: 400px;
     margin:50px;
-    border-radius: 50%;
+    
 }
 body{
-    background-color: rgba(54, 54, 54, 0.19);
+    background-color: rgba(122, 122, 122, 0.534);
     color:black;
     padding: 5px;
 }
@@ -32,7 +32,7 @@ body{
 }
 
 .part-header{
-    background-color: rgba(47, 111, 231, 0.801);
+    background-color: rgba(219, 34, 21, 0.801);
     
    
 }
